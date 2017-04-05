@@ -10,6 +10,8 @@ namespace FastFurious
     {
         static void Main(string[] args)
         {
+            Sucursal sucursal1, sucursal2;
+            
         }
     }
 }

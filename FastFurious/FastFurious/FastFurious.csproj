@@ -41,8 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Auto.cs" />
+    <Compile Include="AutoCamioneta.cs" />
+    <Compile Include="Camioneta.cs" />
+    <Compile Include="IConsultable.cs" />
+    <Compile Include="Empleado.cs" />
+    <Compile Include="MotoLineal.cs" />
+    <Compile Include="Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sucursal.cs" />
+    <Compile Include="Vehiculo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
